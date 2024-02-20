@@ -1,0 +1,9 @@
+pandas
+ipykernel
+python-dotenv
+boto3
+geonamescache
+rapidfuzz
+spacy
+redis
+pandarallel==1.6.0
